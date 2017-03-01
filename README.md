@@ -10,7 +10,7 @@
 ## 構成
 
 - img
-	* grapevine オリジナル画像
+	* grapevine オリジナル画像．Climate and developmental plasticity: interannual variability in grapevine leaf morphology([doi:10.7910/DVN/KOG6SY](http://dx.doi.org/10.7910/DVN/KOG6SY))のサブセット．
 		* [Specimen Num].jpg
 	* binarized 二値画像
 		* [Specimen Num].jpg
